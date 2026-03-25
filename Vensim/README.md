@@ -3,3 +3,5 @@ In this directory you find the files of the model to run them directly in Vensim
 You also need to download the EXCEL files, they contain initialization data and policy data. We do believe that you need EXCEL installed on your machine.
 
 The mov251229 ge4a 10reg.mdl files *is* the model. It is a text file that can be opened and inspected by any program that reads flat textfiles, like Notepad or Notepad++ on Windows.
+
+Both the *.mdl and the two *.xlsx files **must** reside in the same folder on your local machine. 
