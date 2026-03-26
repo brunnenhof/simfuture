@@ -7,3 +7,5 @@ The file *ugregmod.py* is the Vensim model transpiled to Python (by a php script
 *game_plot_ug.py* is a python module (not coded by Claude) that contains all the logic to produce the results graphs, by region, role and round. It is also called by toy.py  The graphs are all matplotlib graphs, they might be more interesting, but also more busy, if coded in plotly ...
 
 *luf.py* is the language file, currently for English, formal and informal German, French and Norwegian (bokmål). Might be extended to other languages in the future. The basic translations are done by [deepl.com](https://www.deepl.com/en) and then reviewed by native speakers. If you want to help out, drop us a line at <simfuture@blue-way.net>
+
+You should be able to rebuild the sqlite3 DB from *schema.sql*.
