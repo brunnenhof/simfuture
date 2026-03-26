@@ -8,5 +8,5 @@ The "*mov251229 ge4a 10reg.mdl*" file **is** the model. It is a text file that c
 
 Both the *.mdl and the two *.xlsx files **must** reside in the same folder on your local machine. 
 
-## mov251229_ge4a_10reg.txt
-This file is the Vensim model file where the variables are sorted in the order of execution. This is useful if you want to use the model as input to a data analysis script you code in Julia, Python, R or some other language.
+### mov251229_ge4a_10reg.txt
+This file is the Vensim model file where the variables are sorted in the order of execution. This is useful if you want to use the model as input to a data analysis script you code in Julia, Python, R or some other language. You may benefit from understanding a bit about the [rules of computation in Vensim](https://www.vensim.com/documentation/computationalsequence.html).
