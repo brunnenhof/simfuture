@@ -7,3 +7,6 @@ You also need to download the EXCEL files, they contain initialization data and 
 The "*mov251229 ge4a 10reg.mdl*" file **is** the model. It is a text file that can be opened and inspected by any program that reads flat textfiles, like Notepad or Notepad++ on Windows.
 
 Both the *.mdl and the two *.xlsx files **must** reside in the same folder on your local machine. 
+
+## mov251229_ge4a_10reg.txt
+This file is the Vensim model file where the variables are sorted in the order of execution. This is useful if you want to use the model as input to a data analysis script you code in Julia, Python, R or some other language.
