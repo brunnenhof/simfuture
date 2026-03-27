@@ -14,6 +14,6 @@ You should be able to rebuild the sqlite3 DB from *schema.sql*.
 
 *toy.py*: The main module; still being changed
 
-The **.npy* files are needed to initialize the python model.
+The **.npy*, **.pkl*, **.json* files are needed to initialize the python model.
 
 If there are any files missing, drop us a line at <simfuture@blue-way.net>
