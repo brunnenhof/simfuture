@@ -9,3 +9,11 @@ The file *ugregmod.py* is the Vensim model transpiled to Python (by a php script
 *luf.py* is the language file, currently for English, formal and informal German, French and Norwegian (bokmål). Might be extended to other languages in the future. The basic translations are done by [deepl.com](https://www.deepl.com/en) and then reviewed by native speakers. If you want to help out, drop us a line at <simfuture@blue-way.net>
 
 You should be able to rebuild the sqlite3 DB from *schema.sql*.
+
+*luf.py*: All the text stings in the various languages; still being changed
+
+*toy.py*: The main module; still being changed
+
+The **.npy* files are needed to initialize the python model.
+
+If there are any files missing, drop us a line at <simfuture@blue-way.net>
